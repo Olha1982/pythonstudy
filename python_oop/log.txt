@@ -1,0 +1,39 @@
+2020-01-04 13:58:18.450171    ValueError:
+ Traceback (most recent call last):
+  File "D:/Python Homework/python_oop/app.py", line 29, in <module>
+    main()
+  File "D:/Python Homework/python_oop/app.py", line 17, in main
+    rec1 = Recruiter ('Andrew', 'and@gmail.com', 200)
+  File "D:\Python Homework\python_oop\models\base.py", line 6, in __init__
+    self.validate(email)
+  File "D:\Python Homework\python_oop\models\base.py", line 11, in validate
+    raise ValueError
+ValueError
+ 
+
+2020-01-04 17:14:28.253089    ValueError:
+ Traceback (most recent call last):
+  File "D:/Python Homework/python_oop/app.py", line 29, in <module>
+    main()
+  File "D:/Python Homework/python_oop/app.py", line 17, in main
+    rec1 = Recruiter ('Andrew', 'and@gmail.com', 200)
+  File "D:\Python Homework\python_oop\models\base.py", line 6, in __init__
+    self.validate(email)
+  File "D:\Python Homework\python_oop\models\base.py", line 11, in validate
+    raise ValueError
+ValueError
+ 
+
+2020-01-04 17:15:31.837308    ValueError:
+ Traceback (most recent call last):
+  File "D:/Python Homework/python_oop/app.py", line 29, in <module>
+    main()
+  File "D:/Python Homework/python_oop/app.py", line 17, in main
+    rec1 = Recruiter ('Andrew', 'and@gmail.com', 200)
+  File "D:\Python Homework\python_oop\models\base.py", line 6, in __init__
+    self.validate(email)
+  File "D:\Python Homework\python_oop\models\base.py", line 11, in validate
+    raise ValueError
+ValueError
+ 
+
